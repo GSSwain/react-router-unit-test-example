@@ -1,1 +1,3 @@
-This repo was created to answer a StackOverflow question and the question has been deleted now.
+This repo was created to answer the following StackOverflow question
+
+https://stackoverflow.com/questions/50165771/keep-this-context-when-mocking-promise-in-function-on-component
